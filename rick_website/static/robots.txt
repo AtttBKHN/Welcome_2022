@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /dashboard/r1CkA7sL3y
